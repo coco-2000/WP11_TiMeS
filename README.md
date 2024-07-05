@@ -21,8 +21,9 @@ To use this program, simply clone the git repository of the project:
     - *Longitudinal_clustering_attention.ipynb* which allows the identification of attention evolution's subtrends with kmeans longitudinal clustering.
     - *Regression.ipynb* which computes the recovery score as a measure of motor recovery and performs a linear regression with acute (T1) scores as independent variables and recovery scores as dependent variable.
       This file takes as input results in *Data/Longitudinal*
+    - *Classification.ipynb* which performs a classification with acute (T1) scores as independent variables and results of the longitudinal motor clustering as labels from *Longitudinal_clustering_motor.ipynb*.
     - *Cluster_0_comparison.ipynb*
-    - *Classification.ipynb*                                                                    
+    - *without_NMF.ipynb*                                                               
     The folder Aitana contains the file *Final_code.ipynb* a previous version of *Final_code2.ipynb*
 
 - The folder *Data* contains the data of the project. 
