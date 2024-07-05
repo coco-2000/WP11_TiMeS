@@ -1,5 +1,5 @@
 # TiMeS_WP11
-The goal is to give longitudinal of behavioral inter-domains interactions in stroke patients from the TiMeS cohort.
+The goal is to give longitudinal assessment of behavioral inter-domains interactions in stroke patients from the TiMeS cohort.
 
 ## Folder and files
 
