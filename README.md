@@ -3,7 +3,7 @@ The goal is to give longitudinal assessment of behavioral inter-domains interact
 
 ## Installation
 To use this program, simply clone the git repository of the project: 
-"git@github.com:CS-433/ml-project-1-my-k-nearest-totoro.git".
+"git@github.com:coco-2000/WP11_TiMeS.git".
 
 ## Folder and files
 
