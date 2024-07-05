@@ -1,4 +1,6 @@
 # TiMeS_WP11
+This study is based on the TiMeS dataset, which is a longitudinal evaluation of several domains over 4 time-points : first week, third week, third month and 1 year after the stroke.
+
 The goal is to give longitudinal assessment of behavioral inter-domains interactions in stroke patients from the TiMeS cohort.
 The behavioral domains previously evaluated are the following : Motor, Attention, Executive, Memory, Sensory, Language and Neglect. 
 Each domain was evaluated with a battery of tests. This project provides a longitudinal analysis of the results obtained following the mentionned goal.
