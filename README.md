@@ -1,6 +1,10 @@
 # TiMeS_WP11
 The goal is to give longitudinal assessment of behavioral inter-domains interactions in stroke patients from the TiMeS cohort.
 
+## Installation
+To use this program, simply clone the git repository of the project: 
+"git@github.com:CS-433/ml-project-1-my-k-nearest-totoro.git".
+
 ## Folder and files
 
 - The folder *Code* is made of 9 files and contains the code of the project as well as some visualizations as it is mainly composed of jupyter notebooks.
@@ -19,3 +23,6 @@ The goal is to give longitudinal assessment of behavioral inter-domains interact
     - The different files of this folder are the ones first loaded in the file *Code/Final_code2.ipynb* and *Code/Aitana/Final_code.ipynb*
     - The folder Lisa which contains the data transformed by *Final_code2.ipynb*
     - The folder Longitudinal which contains the data transfornmed and clustered by *Longitudinal_clustering_motor.ipynb*
+ 
+  ## Authors
+  Lisa Fleury, Aitana Waelbroeck Boix, Constance de Trogoff
