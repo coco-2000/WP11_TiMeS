@@ -23,7 +23,8 @@ To use this program, simply clone the git repository of the project:
       This file takes as input results in *Data/Longitudinal*
     - *Classification.ipynb* which performs a classification with acute (T1) scores as independent variables and results of the longitudinal motor clustering as labels from *Longitudinal_clustering_motor.ipynb*.
     - *Cluster_0_comparison.ipynb*
-    - *without_NMF.ipynb*                                                               
+    - *without_NMF.ipynb*
+                                                                    
     The folder Aitana contains the file *Final_code.ipynb* a previous version of *Final_code2.ipynb*
 
 - The folder *Data* contains the data of the project. 
