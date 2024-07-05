@@ -25,8 +25,8 @@ To use this program, simply clone the git repository of the project:
 
 - The folder *Data* contains the data of the project. 
     - The different files of this folder are the ones first loaded in the file *Code/Final_code2.ipynb* and *Code/Aitana/Final_code.ipynb*
-    - The folder Lisa which contains the data transformed by *Final_code2.ipynb*
-    - The folder Longitudinal which contains the data transfornmed and clustered by *Longitudinal_clustering_motor.ipynb*
+    - The folder *Lisa* which contains the data transformed by *Final_code2.ipynb*
+    - The folder *Longitudinal* which contains the data transfornmed and clustered by *Longitudinal_clustering_motor.ipynb*
  
   ## Authors
   Lisa Fleury, Aitana Waelbroeck Boix, Constance de Trogoff
