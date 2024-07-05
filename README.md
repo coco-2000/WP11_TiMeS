@@ -27,6 +27,10 @@ To use this program, simply clone the git repository of the project:
     - The different files of this folder are the ones first loaded in the file *Code/Final_code2.ipynb* and *Code/Aitana/Final_code.ipynb*
     - The folder *Lisa* which contains the data transformed by *Final_code2.ipynb*
     - The folder *Longitudinal* which contains the data transfornmed and clustered by *Longitudinal_clustering_motor.ipynb*
- 
-  ## Authors
-  Lisa Fleury, Aitana Waelbroeck Boix, Constance de Trogoff
+
+## Order of files to be compiled
+- Final_code2.ipynb has to be run before *Global_visualization.ipynb*, *Longitudinal_clustering_motor.ipynb*, and *Longitudinal_clustering_attention.ipynb*
+- *Longitudinal_clustering_motor.ipynb* has to be run before *Regression.ipynb* and *Classification.ipynb* 
+
+## Authors
+Lisa Fleury, Aitana Waelbroeck Boix, Constance de Trogoff
